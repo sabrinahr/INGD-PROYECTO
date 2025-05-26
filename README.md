@@ -47,7 +47,7 @@ Asegúrate de que no haya errores de tablas ya existentes. Si es necesario, agre
 
 Abre Prueba.py y edita esta línea (o similares):
 
-connection = oracledb.connect(user="TU_USUARIO", password="TU_CONTRASENA", dsn=dsn_tns)
+connection = oracledb.connect(user="TU_USUARIO", password="Oracle21XE", dsn=dsn_tns)
 
 Por ejemplo:
 
